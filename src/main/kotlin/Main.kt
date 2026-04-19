@@ -1,0 +1,5 @@
+import Moeda
+
+fun main() {
+
+}
